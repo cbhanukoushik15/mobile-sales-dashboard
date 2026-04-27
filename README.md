@@ -18,7 +18,7 @@ Interactive Power BI dashboard analyzing 5,000+ mobile sales records across 10 c
 - Interactive slicers for Date, City, Category, and Channel
 
 ## Dashboard Preview
-[Add screenshot here]
+(dashboard.png)
 
 ## Author
 C Bhanu Koushik | Data Analytics Enthusiast
